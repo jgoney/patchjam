@@ -1,0 +1,590 @@
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/065.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/076.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/088.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/003.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/152.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/008.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/142.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/050.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/121.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE9.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE6.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Solange/SOLANGE0.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS04.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS10.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS07.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS127.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS126.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS75.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS63.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS124.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS119.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS89.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS76.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS99.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS134.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS73.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS58.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS41.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS96.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS106.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS112.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS113.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS83.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS68.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS40.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS42.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS95.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS104.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS43.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS47.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS90.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS114.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS91.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS46.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS52.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS78.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS87.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS103.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS117.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS45.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS79.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS36.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS159.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS21.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS31.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS33.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STNOS161.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Larry Stanos/STANOS32.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Yasuhiko Fukuda/FUKUDA.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BOBS_VCS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC10.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC04.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC07.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC13.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC12.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC06.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC16.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC17.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC29.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC15.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC14.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC28.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC25.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC19.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC18.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC24.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC30.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC26.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC27.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC23.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC22.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC20.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC21.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/DX7-OC/DXOC09.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Bo Tomlyn/BoTomlynPerfAKV103.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Bo Tomlyn/BoTomlynPerfBKV103.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX51.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/EBANK2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX50.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/EBANK1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/JWSNDSD.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/EBANK0.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX57.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX43.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/JWSNDSA.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX56.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX40.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX68.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/JWSNDSB.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/JWSNDSC.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX69.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX55.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX41.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX26.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX32.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX33.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX27.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX19.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX25.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX24.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX18.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX34.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX09.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX23.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX36.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX22.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX07.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX13.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX12.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX06.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX38.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX04.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX39.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/LATIN.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX15.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX29.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX28.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX14.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX17.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX58.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX64.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX70.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX71.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX59.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX67.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX66.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX62.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7-patches/DX49.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/Chris Dodunski/DX7SK95.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CLAUDE.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BRASS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MARTY2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0043.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/LONNIE2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK18.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/SYNTHS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MARTY1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0054.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CHURCH.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ATSU_5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WEIRD3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0044.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_04.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WEIRD2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ATSU_4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/RHODES2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MIKE1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/COUNTRY.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WOODWIND.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_06.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0047.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/NEWSND.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_07.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WEIRD1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/RHODES1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/dx7bank.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MIKE2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BELLS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0009.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ANALOG4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI7.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ETHNIC.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI6.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DXDXMI.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0008.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MEINE.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/YAM-26.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/FRANK1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/THEATRE.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0023.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ANGELO.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/NEWSERI.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DJW001.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/FRANKIE.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BELLTEL.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/GUITAR2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ZONE3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/GRAK.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BBANK2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ANALOG3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/XYLOS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TODAY.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0024.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DAVE1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ANALOG1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/KOTO.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BBANK1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ORG_CLAV.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/COMBO.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WYATT.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BASSICS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0000.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/JB002.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TX7A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/B1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/JPAUL.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MASSEY.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BRASS3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/B3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/JB001.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/B2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BRASS2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/LATIN.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ORGANS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ORGAN2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MARK.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/SPLITS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0006.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/FOO.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFI8.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BASSEA.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/YAMAHA.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFRACK02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ORGAN3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/FORRICK.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ORGAN1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/B4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/MAGAZINE.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/SYX_0628.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/TFRACK01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/JFD001.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/THINGS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WWIND2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CLAVS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WWIND3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/ACTUALBK.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DXMIK2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CONTEMP.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0048.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WWIND1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CLAV1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK0049.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DX7_08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/INT.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/WWIND4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BANK14.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DG2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/CLANG1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BLANKS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/BSTX.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Unsorted/dx7zicweb/DG1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/058.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/049.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/060.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/048.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/013.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/007.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/006.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/012.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/004.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/010.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/038.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/039.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/011.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/005.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/029.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/001.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/015.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/014.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/028.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/016.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/002.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/003.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/017.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/032.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/026.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/027.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/033.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/025.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/031.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/019.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/018.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/030.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/024.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/008.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/020.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/034.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/035.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/021.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/009.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/037.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/023.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/022.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/036.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/051.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/045.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/044.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/050.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/046.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/052.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/053.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/047.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/043.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/057.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/056.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/042.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/054.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/040.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/041.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Single Voice/055.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/ChiNoMaki/ChiNoMakiVoiceA.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Synthware Sound Packs/Sound Pack 1 State-of-the-Art Digitals B.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7S/DX7SCartridgeB.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7S/DX7SCartridgeA.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX1/DX1A2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX1/DX1A1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX1/DX1B1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX1/DX1B2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802_Factory_Performances.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802BankB1.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802BankB2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802_Blank_Performances.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802BankA2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX802/TX802BankA1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7IIFD/DX7IIFDPerf.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7IIFD/DX7IIFDPerfB.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 037.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 078.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 044.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 092.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 041.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 043.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 072.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 105.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 104.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 070.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 075.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 061.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 077.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 063.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 039.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 028.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 015.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Ajay/dx7ii-bank-B.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 13.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 12.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 19.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Christopher Pardy (Pat)/pat 09.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM3B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/PARTIAL.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STEPH4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM3A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STEVE1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM2A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STEPH1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/2003.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM2B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STEPH3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STEPH2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/WARM35.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/CLSSIC01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/WARM3B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/WARM3A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/PIZZ01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/PR02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SJSU-E.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM4B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/PR03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/PR01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SJSU-F.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM4A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SJSU-G.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SYDRTY01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM1B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROAD2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROM1A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/ROAD1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/RM0001.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/STARMA.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SUPERDX.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/SONUS1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings2/STRING32.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/str dx cW.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngac4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngsol2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngsol3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngac2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/STRGS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngsyn4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Strings/Strings3/strngsyn5.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/Wind.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/WIND--03.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/WIND--02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/WIND--01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/WIND--05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/wood DX.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Woodwind/WIND--04.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Ethnic/Ethnic.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Ethnic/Asia/koto2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Ethnic/India/INDIADX.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Ethnic/Italy/Italian3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Ethnic/Italy/Italian2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Harmonica/harmonica.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra10.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra7.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra8.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Orchestra/Orchestra9.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/BANK3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass1/BRASS-13.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass1/BRASS-01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass1/BRASS-14.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass1/BRASS-20.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass1/BRASS-08.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass2/brass_01.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass2/brass_14.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/brass8a.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/brass sounds CW.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/Brass2a.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/brass wind flutes.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/Brass3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Brass/Brass4/pollybrass cw.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERC_B.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERC_A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERCUSSI.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERC1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERC2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Perc.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/PERCUSS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Bells/bell3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Bells/BELLTEL.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Bells/bell d.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Drums/Drmoct.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Drums/Drm2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Drums/Drm2a.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Mallet/MALLETS1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Mallet/MALLETS2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Percussion Tuned/perc08.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Percussion Tuned/perc07.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Percussion Tuned/perc04.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Percussion Tuned/perc11.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Vibraphone/VIBRAP01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Vibraphone/VIBRAP02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chimes/CHIMES3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chimes/CHIMES2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chimes/CHIMES5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chimes/CHIMES4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Marimba/MARIMB01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Marimba/MARIMB02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chroma Percussion/CHROMA15.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Percussion/Chroma Percussion/CHROMA01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Voice/Choir/choir4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Voice/Vocoder/VOCODER1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Voice/Vocoder/VOCODER2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Plucked5.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Plucked4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/PLUCKED.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Guitar/Guitar4/Guitars.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Guitar/Guitar4/Gtrs.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Guitar/Guitar3/GUITAR-01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Guitar/Guitar1/gtrs_a-d.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Guitar/Guitar1/gtrs_n-r.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--14.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--07.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--13.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--12.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--06.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--10.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--20.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--09.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass2/BASS--19.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass4/BASS1.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass4/BASS3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass4/bass6.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass4/bass I CW.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass4/BASS.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass3/bass_07.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass3/bass_13.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass3/bass_04.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/Bass/Bass3/bass_14.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Effects/effects1a.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Keyboard.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Keys.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Keybd01.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Keybd02.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/More_key.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/PIANOS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/ePian-28.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/ePian-27.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/ePian-25.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/Wurlitzer/WURLIT11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/Rhodes/Rhodes4.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/Rhodes/rhodes3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/Rhodes/RHODES73.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Electric Piano/Rhodes/DX7RhodesEtc.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Piano2/PIANO-11.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Piano2/PIANO-12.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Piano4/PIANO.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Piano/Piano4/PIANO1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/BANK4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ3/ORGAN_05.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ4/organ5.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ4/Organ3.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/organs cw 2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/orgues CW.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/Percorg2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/organham.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/Eorgan1b.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/Eorgan1c.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/Percorg.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ2/ORGAN-35.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ2/ORGAN-36.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ2/ORGAN-40.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Harpsichord/HARPS1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Analog/ANALGSET.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth10/SYN_PLUS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth10/SYNPLUS.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth10/SYNCIOP1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth10/SYNCIOP2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus08.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus09.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus19.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus18.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus03.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus01.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth05/synsus07.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Specific Synth/OBRHEIM4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Specific Synth/Obrheim5.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Specific Synth/MOOG8A.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Specific Synth/PROPHET5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth02/SYNTH-06.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth03/synth_16.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth03/synth_14.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/Synths.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/various synths.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/Var. lead & synths.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/Synths4.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/pollygroup cw.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth04/FATSTUFF.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth Pads/PAD1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Lead/Lead01S.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Lead/Lead02S.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Lead/Lead03S.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth Percussion/SYNPERC2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth Percussion/SYNPERC1.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth Percussion/SYNDR01.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth Percussion/SYNDR02.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth08/SYST_GG.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth06/syndec2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth06/syndec7.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth06/syndec9.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Synth/Synth06/syndec8.syx

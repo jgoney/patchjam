@@ -1,0 +1,26 @@
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Aminet/021.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BANK19.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BANKP1.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/$M3.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BANKSTE2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BANKA2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Jeff Saxe/BANK17.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Bo Tomlyn/BoTomlynVoiceKV103.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/PA-Decoder/PA-Decoder.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Syntech/Syntech Collection/5.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Toby/Tobys1.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Toby/Tobys2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/TX7/TX7FactoryA-Tape.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7S/DX7SInternalA.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Original Yamaha/DX7S/DX7SInternalB.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 082.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/SoundSations/SoundSations Bank 114.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/Ajay/dx7ii-bank-B.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/F1.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/TXGE29.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/INTSYNTO.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/TXGE28.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Misc/FMSYNT2.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Plucked/KEYPLUC.syx
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Effects/EFFECT-2.SYX
+/Users/jgoney/Dropbox/DX7/Dexed_cart_1.0/!Instruments/Keyboard/Organ/Organ5/ORGTAP.syx

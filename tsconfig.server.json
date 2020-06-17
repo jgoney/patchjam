@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "types": ["webpack-env"],
+    "paths": {
+      "@/*": ["server/*"]
+    },
+    "lib": ["es6", "esnext", "dom", "dom.iterable", "scripthost"]
+  },
+  "files": ["server/index.ts"],
+  "include": ["server/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}

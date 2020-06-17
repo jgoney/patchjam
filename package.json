@@ -1,19 +1,41 @@
 {
-  "name": "vue-ts",
+  "name": "patchmaster",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build-server": "tsc -p ./tsconfig.server.json",
+    "run-server": "npm run build-server && node dist/server/index.js",
+    "watch-server": "tsc-watch -p ./tsconfig.server.json --onSuccess \"node ./dist/server/index.js\""
   },
   "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/lodash.debounce": "^4.0.6",
+    "@types/luxon": "^1.24.0",
+    "@types/morgan": "^1.9.0",
+    "@types/node": "^14.0.6",
+    "@types/webmidi": "^2.0.4",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "lodash.debounce": "^4.0.8",
+    "luxon": "^1.24.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.2.1",
+    "reflect-metadata": "^0.1.13",
+    "tsc-watch": "^4.2.8",
+    "typeorm": "^0.2.25",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
-    "vue-property-decorator": "^8.4.2"
+    "vue-property-decorator": "^8.4.2",
+    "vuedraggable": "^2.23.2",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.4.0"
   },
   "devDependencies": {
+    "@babel/polyfill": "^7.7.0",
+    "@mdi/font": "^5.3.45",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "@vue/cli-plugin-babel": "~4.4.0",
@@ -23,10 +45,18 @@
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-typescript": "^5.0.2",
     "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-vue": "^6.2.2",
+    "mutationobserver-shim": "^0.3.3",
+    "popper.js": "^1.16.0",
+    "portal-vue": "^2.1.6",
     "prettier": "^1.19.1",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
     "typescript": "~3.9.3",
-    "vue-template-compiler": "^2.6.11"
+    "vue-cli-plugin-vuetify": "~2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
   }
 }
