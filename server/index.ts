@@ -74,11 +74,9 @@ createConnection()
       }
 
       if (!ids || ids.length !== synthConfig.numVoices) {
-        return res
-          .status(400)
-          .json({
-            error: `Bad Request: ${synth} requires ${synthConfig.numVoices} patches`
-          });
+        return res.status(400).json({
+          error: `Bad Request: ${synth} requires ${synthConfig.numVoices} patches`
+        });
       }
 
       if (typeof ids === "string") {
@@ -115,7 +113,6 @@ createConnection()
     });
 
     app.get("/api/random", async (req, res) => {
-
       const synth: string = String(req.query.synth);
       const synthConfig: SynthConfig = Config.synths[synth];
 

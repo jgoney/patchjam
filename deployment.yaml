@@ -1,0 +1,68 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: patchjam
+spec:
+  selector:
+    matchLabels:
+      app: patchjam
+  template:
+    metadata:
+      labels:
+        app: patchjam
+    spec:
+      containers:
+        - name: patchjam
+          image: gcr.io/mindful-baton-280706/patchjam:v1.3
+          ports:
+            - containerPort: 8080
+          env:
+            - name: TYPEORM_CONNECTION
+              value: "postgres"
+            - name: TYPEORM_HOST
+              value: "localhost"
+            - name: TYPEORM_PORT
+              value: "5432"
+            - name: TYPEORM_SYNCHRONIZE
+              value: "false"
+            - name: TYPEORM_LOGGING
+              value: "false"
+            - name: TYPEORM_ENTITIES
+              value: "dist/server/entity/**/*.js"
+            - name: TYPEORM_MIGRATIONS
+              value: "dist/server/migration/**/*.js"
+            - name: TYPEORM_SUBSCRIBERS
+              value: "dist/server/subscriber/**/*.js"
+            - name: TYPEORM_USERNAME
+              valueFrom:
+                secretKeyRef:
+                  name: patchjam-db-secret
+                  key: username
+            - name: TYPEORM_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: patchjam-db-secret
+                  key: password
+            - name: TYPEORM_DATABASE
+              valueFrom:
+                secretKeyRef:
+                  name: patchjam-db-secret
+                  key: database
+
+        - name: cloud-sql-proxy
+          # It is recommended to use the latest version of the Cloud SQL proxy
+          # and update on a regular schedule
+          image: gcr.io/cloudsql-docker/gce-proxy:1.17
+          command:
+            - "/cloud_sql_proxy"
+            - "-instances=mindful-baton-280706:us-central1:patchjam-db=tcp:5432"
+            - "-credential_file=/secrets/credentials.json"
+          volumeMounts:
+            - name: my-secrets-volume
+              mountPath: /secrets/
+              readOnly: true
+
+      volumes:
+        - name: my-secrets-volume
+          secret:
+            secretName: patchjam-db-credentials-key
