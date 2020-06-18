@@ -1,19 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: patchjam
+  name: patchjam-web
 spec:
   selector:
     matchLabels:
       app: patchjam
+      tier: web
   template:
     metadata:
       labels:
         app: patchjam
+        tier: web
     spec:
       containers:
         - name: patchjam
-          image: gcr.io/mindful-baton-280706/patchjam:v1.3
+          image: gcr.io/mindful-baton-280706/patchjam:v1.32
           ports:
             - containerPort: 8080
           env:
@@ -48,6 +50,10 @@ spec:
                 secretKeyRef:
                   name: patchjam-db-secret
                   key: database
+          readinessProbe:
+            httpGet:
+              path: /api/health
+              port: 8080
 
         - name: cloud-sql-proxy
           # It is recommended to use the latest version of the Cloud SQL proxy
