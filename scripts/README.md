@@ -8,4 +8,6 @@ To use parse_sysex.py:
     pip install -r requirements.txt 
 
 3. Run script, providing path to the patches you'd like to process:
+    ```
     PATCH_PATH=${/path/to/your/patches} python parse_sysex.py
+    ```
