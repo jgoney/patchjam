@@ -13,7 +13,7 @@ services:
       - $HOME/docker/volumes/postgres:/var/lib/postgresql/data
 
   app:
-    container_name: patchmaster-app
+    container_name: patchjam-app
     build: .
     ports:
       - "8080:8080"
