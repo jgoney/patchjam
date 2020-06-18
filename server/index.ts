@@ -149,6 +149,11 @@ createConnection()
       return res.json(result);
     });
 
+    // health endpoint, required for ingress
+    app.get("/api/health", async (req, res) => {
+      return res.status(200).json({ status: "OK" });
+    });
+
     app.listen(PORT, function() {
       console.log(`Server is listening on port ${PORT}`);
     });
