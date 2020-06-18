@@ -5,6 +5,8 @@ Patchjam is a patch manager for synthesizers. With it, you can...
  - drag patches from the browser into a new patch list
  - save the patch list to a new sysex file to be transferred to your synth!
 
+ Currently Patchjam only supports the Yamaha DX7 (and compatible synths, such as [Dexed](https://asb2m10.github.io/dexed/) or [FM8](https://www.native-instruments.com/en/products/komplete/synths/fm8/)), but adding support for other synths is possible.
+
 ## Quickstart
 
 To run:
@@ -35,3 +37,7 @@ npm run build-server  # Compiles server for development production
 npm run run-server    # Runs server (once it's built)
 npm run watch-server  # Compiles and hot-reloads server for development
 ```
+
+## License
+
+Patchjam is provided under the MIT License.
