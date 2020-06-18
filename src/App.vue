@@ -248,10 +248,15 @@ export default Vue.extend({
       if (!this.selectedSynth) {
         return false;
       }
+
       // don't add any more patches if our list is at the maximum length
-      if (this.selectedSynthConfig.numVoices === this.myPatchList.length) {
+      if (
+        this.selectedSynthConfig &&
+        this.selectedSynthConfig.numVoices === this.myPatchList.length
+      ) {
         return false;
       }
+
       // don't add patch if it's a dupe
       for (const patch of e.relatedContext.list) {
         if (e.draggedContext.element.id === patch.id) {
@@ -279,6 +284,6 @@ export default Vue.extend({
 }
 
 .deactivated {
-  opacity: 50%;
+  opacity: 0.5;
 }
 </style>
