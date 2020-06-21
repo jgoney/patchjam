@@ -57,9 +57,8 @@
               :move="checkMove"
             >
               <PatchCard
-                v-for="(patch, i) in patches"
+                v-for="patch in patches"
                 :key="patch.id"
-                :index="i"
                 :patch="patch"
                 color="secondary"
               />
